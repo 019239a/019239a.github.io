@@ -22,7 +22,7 @@ CDJIEF Games
 -
 
 
- ![image_proxy](https://user-images.githubusercontent.com/94624765/188360090-fac28893-0bfb-4def-adb5-ff2045aa23d8.png)
+ ![image_proxy](https://i.postimg.cc/kM8ZdK8s/gtl.png)
  
  
  
