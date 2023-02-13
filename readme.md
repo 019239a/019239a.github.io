@@ -5,9 +5,11 @@
 
 
 CDJIEF Games 
-
+--------------
 🇺🇸  (click at low below to access CDJIEF site free online games list) 
+-
 🇵🇹  (clique no link abaixo para acessar á lista de jogos online grátis do site CDJIEF) 
+-
 🇪🇸  (haga clic en nel enlance abajo para acceder a la lista juegos online del website CDJIEF)
 
 <body>
@@ -19,20 +21,20 @@ CDJIEF Games
  
  
  # 🔗 🦜 extra Links
- 
+ ----------------
  
  1. 🎈 Youtube PRO NO 🛑 ADS!
 
 https://il.ax
-
-
-
+-
+-
+-
  2. 🧰 youtube player + 📥 downloade NO 🛑 ADS!
 
 https://y.com.sb
-
-
-
+-
+-
+-
 3. ✏️ fancy text generator pro 🪄
 
 https://cdjief.github.io/apps/textogerador
