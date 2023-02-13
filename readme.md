@@ -6,19 +6,21 @@
 
 CDJIEF Games 
 --------------
-🇺🇸  (click at low below to access CDJIEF site free online games list) 
--
-🇵🇹  (clique no link abaixo para acessar á lista de jogos online grátis do site CDJIEF) 
--
-🇪🇸  (haga clic en nel enlance abajo para acceder a la lista juegos online del website CDJIEF)
--
-
-↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
--
 
 <body>
  <h1>  ██▓▒­░⡷⠂🔗 https://bit.ly/-game5 ⠐⢾░▒­▓██ </h1>
  </body>
+
+
+
+
+🇺🇸  (click at link above to access CDJIEF site free online games list) 
+-
+🇵🇹  (clique no link acima para acessar á lista de jogos online grátis do site CDJIEF) 
+-
+🇪🇸  (haga clic en nel enlance arriba para acceder a la lista juegos online del website CDJIEF)
+-
+
 
  ![image_proxy](https://user-images.githubusercontent.com/94624765/188360090-fac28893-0bfb-4def-adb5-ff2045aa23d8.png)
  
