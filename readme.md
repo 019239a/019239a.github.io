@@ -29,19 +29,17 @@ CDJIEF Games
  # 🔗 🦜 extra Links
  ----------------
  
- 1. 🎈 Youtube PRO NO 🛑 ADS!
+# 1. 🎈 Youtube PRO NO 🛑 ADS!
 -
 https://il.ax
-_
-_
-_
- 2. 🧰 youtube player + 📥 downloade NO 🛑 ADS!
+-
+
+# 2. 🧰 youtube player + 📥 downloade NO 🛑 ADS!
 -
 https://y.com.sb
 -
-_
-_
-3. ✏️ fancy text generator pro 🪄
+
+#3. ✏️ fancy text generator pro 🪄
 -
 https://cdjief.github.io/apps/textogerador
 -
